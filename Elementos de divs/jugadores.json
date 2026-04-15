@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Valverde",
+    "edad": 26,
+    "ficha": 189438932,
+    "foto": "images/valverde.png"
+  },
+  {
+    "nombre": "Mbappe",
+    "edad": 28,
+    "ficha": 200000000,
+    "foto": "images/mbappe.png"
+  },
+  {
+    "nombre": "Vinicius",
+    "edad": 27,
+    "ficha": 150000000,
+    "foto": "images/vinicius.webp"
+  },
+  {
+    "nombre": "Asencio",
+    "edad": 20,
+    "ficha": 100000000,
+    "foto": "images/asencio.webp"
+  }
+]

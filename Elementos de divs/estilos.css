@@ -1,0 +1,12 @@
+div {
+            border: 1px solid black;
+            box-shadow: 3px 3px 5px black;;
+        }
+        img {
+            width: 200px;
+        }
+        #contenedor {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px;
+        }
